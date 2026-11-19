@@ -12,6 +12,7 @@
 #include <iomanip>
 #include <string>
 #include <vector>
+#include <cstdlib>
 using namespace std;
 
 const string PRODUCT_FILE = "products.txt";
