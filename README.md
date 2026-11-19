@@ -1,37 +1,44 @@
-# Inventory-and-Billing-System-using-c-
-About the Project
+This Inventory and Billing System is a lightweight, console-based C++ application engineered to bring speed, accuracy, and automation to retail management. Built from the ground up using core Object-Oriented Programming (OOP) principles, it bridges the gap between stock tracking and customer checkout—turning raw C++ logic into a seamless storefront engine.
 
-A simple Inventory and Billing System developed using C++ and Object-Oriented Programming concepts.
+✨ What It Does
+Effortless Catalog Management: Add new products on the fly and view your entire live inventory at a glance.
 
-Features
+Instant Product Lookup: Locate any item in seconds using its unique Product ID.
 
-Add new products.
-Display available products.
-Search products using Product ID.
-Generate customer bills.
-Check product stock availability.
-Automatically update inventory after billing.
-Save and load product information using file handling.
-Concepts Used
+Smart Checkout & Billing: Generate clean, itemized customer bills without lifting a calculator.
 
-Classes and Objects
-Constructors
-Encapsulation
-Operator Overloading
-Vectors and Iterators
-File Handling
-Loops and Conditional Statements
-Technologies
+Real-Time Stock Guard: Automatically verifies stock availability before a sale and deducts sold quantities the moment a bill is generated.
 
+Persistent Memory: Powered by C++ File Handling, your inventory survives restarts—saving and loading product data automatically.
+
+🧠 Under the Hood (Concepts Used)
+This project isn't just about getting the job done; it's a practical showcase of clean C++ architecture:
+
+Object-Oriented Core: Classes, Objects, Constructors, and Encapsulation for modular, secure data handling.
+
+Operator Overloading: Making custom object operations intuitive and readable.
+
+STL Power: Dynamic memory management using std::vector and Iterators.
+
+Data Persistence: File Handling (fstream) for reliable local storage.
+
+Control Flow: Structured loops and conditional logic driving an interactive menu.
+
+🛠️ Tech Stack
 Language: C++
-Concepts: Object-Oriented Programming
-Storage: File Handling
-How to Run
 
-Clone or download this repository.
-Open "main.cpp" in a C++ compiler.
-Compile and execute the program.
-Follow the menu displayed on the screen.
-Author
+Paradigm: Object-Oriented Programming (OOP)
 
-ARRSH GOEL,AARAV GUPTA AND PARTH DHAMI
+Storage: Local File Handling
+
+🚀 Getting Started
+Clone or download this repository to your local machine.
+
+Open main.cpp in your preferred C++ compiler or IDE (VS Code, Code::Blocks, Dev-C++, etc.).
+
+Compile and run the program.
+
+Navigate through the interactive on-screen menu to manage your store!
+
+👥 Built By
+Arrsh Goel, Aarav Gupta, and Parth Dhami
